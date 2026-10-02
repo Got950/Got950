@@ -1,60 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="titleA descA">
   <title id="titleA">Harshit, AI Engineer</title>
-  <desc id="descA">Name and role on the left, with a quiet neural network on the right.</desc>
+  <desc id="descA">A short letter. The name, then two sentences.</desc>
   <defs>
-    <radialGradient id="washA" cx="78%" cy="50%" r="42%">
-      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
-    </radialGradient>
     <clipPath id="cardA">
       <rect width="1200" height="300" rx="16"/>
     </clipPath>
   </defs>
-  <g clip-path="url(#cardA)">
+  <g clip-path="url(#cardA)" font-family="ui-monospace, Menlo, Consolas, monospace">
     <rect width="1200" height="300" fill="#0d1117"/>
-    <rect width="1200" height="300" fill="url(#washA)"/>
-    <g opacity="0.72" fill="none" stroke="#1f6feb" stroke-width="1.25">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 8 -5; 0 0" dur="18s" repeatCount="indefinite"/>
-      <g stroke-opacity="0.45">
-        <line x1="742" y1="78" x2="900" y2="52"/>
-        <line x1="742" y1="78" x2="900" y2="118"/>
-        <line x1="742" y1="150" x2="900" y2="52"/>
-        <line x1="742" y1="150" x2="900" y2="118"/>
-        <line x1="742" y1="150" x2="900" y2="184"/>
-        <line x1="742" y1="222" x2="900" y2="118"/>
-        <line x1="742" y1="222" x2="900" y2="184"/>
-        <line x1="742" y1="222" x2="900" y2="248"/>
-        <line x1="900" y1="52" x2="1068" y2="96"/>
-        <line x1="900" y1="118" x2="1068" y2="96"/>
-        <line x1="900" y1="118" x2="1068" y2="168"/>
-        <line x1="900" y1="184" x2="1068" y2="168"/>
-        <line x1="900" y1="184" x2="1068" y2="232"/>
-        <line x1="900" y1="248" x2="1068" y2="232"/>
-      </g>
-      <g fill="#58a6ff" stroke="none">
-        <circle cx="742" cy="78" r="5" opacity="0.55"/>
-        <circle cx="742" cy="150" r="6" opacity="0.7"/>
-        <circle cx="742" cy="222" r="5" opacity="0.5"/>
-        <circle cx="900" cy="52" r="4.5" opacity="0.45"/>
-        <circle cx="900" cy="118" r="6.5" opacity="0.85">
-          <animate attributeName="opacity" values="0.35;0.95;0.35" dur="3.6s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="900" cy="184" r="5.5" opacity="0.6"/>
-        <circle cx="900" cy="248" r="4.5" opacity="0.4"/>
-        <circle cx="1068" cy="96" r="6" opacity="0.8">
-          <animate attributeName="opacity" values="0.4;1;0.4" dur="4.4s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="1068" cy="168" r="7" opacity="0.9"/>
-        <circle cx="1068" cy="232" r="5" opacity="0.5">
-          <animate attributeName="opacity" values="0.25;0.75;0.25" dur="5s" repeatCount="indefinite"/>
-        </circle>
-      </g>
-    </g>
-    <g font-family="ui-monospace, Menlo, Consolas, monospace">
-      <text x="56" y="74" fill="#8b949e" font-size="20">// about</text>
-      <text x="56" y="164" fill="#e6edf3" font-size="80" font-weight="700">Harshit</text>
-      <text x="56" y="214" fill="#58a6ff" font-size="32">AI Engineer</text>
-      <text x="56" y="256" fill="#8b949e" font-size="26">llm / vision / edge ai</text>
-    </g>
+    <text x="72" y="124" fill="#e6edf3" font-size="92" font-weight="700">Harshit</text>
+    <text x="72" y="186" fill="#58a6ff" font-size="32">AI engineer in Hyderabad.</text>
+    <text x="72" y="232" fill="#8b949e" font-size="28">I work on language models, vision,</text>
+    <text x="72" y="268" fill="#8b949e" font-size="28">and models that run on the device.</text>
   </g>
 </svg>

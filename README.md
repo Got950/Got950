@@ -1,68 +1,26 @@
-**A**
+A short letter.
 
-<img alt="Header option A" src="assets/header-a.svg" width="100%" />
+<img alt="Header option A, a short letter" src="assets/header-a.svg" width="100%" />
 
-**B**
+Just the name, on blue.
 
-<img alt="Header option B" src="assets/header-b.svg" width="100%" />
+<img alt="Header option B, a blue poster" src="assets/header-b.svg" width="100%" />
 
-**C**
+The name, with a note beside it.
 
-<img alt="Header option C" src="assets/header-c.svg" width="100%" />
+<img alt="Header option C, name and a note" src="assets/header-c.svg" width="100%" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=620&height=50&lines=AI+Engineer+based+in+Hyderabad;LLMs+%C2%B7+Computer+Vision+%C2%B7+Edge+AI;RAG%2C+multi-agent+systems%2C+and+OCR;I+also+build+games+on+the+side" />
-    <img alt="Typing intro" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=3730A3&center=true&vCenter=true&width=620&height=50&lines=AI+Engineer+based+in+Hyderabad;LLMs+%C2%B7+Computer+Vision+%C2%B7+Edge+AI;RAG%2C+multi-agent+systems%2C+and+OCR;I+also+build+games+on+the+side" width="100%" />
-  </picture>
-</p>
+[Portfolio](https://harshit-portfolio-d3b1.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)
 
-<p align="center">
-  <a href="https://harshit-portfolio-d3b1.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img alt="LinkedIn — replace this URL" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:REPLACE_WITH_YOUR_EMAIL"><img alt="Email — replace this address" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+// about
 
-## About Me
+I'm Harshit. I live in Hyderabad.
 
-I'm Harshit, an AI engineer in Hyderabad, India. I work across AI, hardware, and software, and I build production AI products: retrieval-augmented generation, multi-agent systems, OCR, and edge AI. Game development is a side interest.
+I'm an AI engineer. Most days that means language models, retrieval, and agents that can check their own work. I also work on computer vision, and on models that have to run on the device, not only in the cloud. I make games when I get a spare week.
 
-Portfolio: [harshit-portfolio-d3b1.vercel.app](https://harshit-portfolio-d3b1.vercel.app/)
+// tools
 
-## Tech stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
-
-**Backend / Frontend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+Python and TypeScript, mostly. FastAPI and React for the apps. For models I use OpenAI, Groq, Llama, and smaller ones when the work has to run on device.
 
 ## Featured projects
 
