@@ -10,7 +10,9 @@
 
 ## About
 
-Most days I work on language models, retrieval, and agents that can check their own work. I also do computer vision, and models that have to run on the device, not only in the cloud. Anime is the other tab.
+Most days I’m building things around language models, retrieval, and agents — usually figuring out how to make them actually useful, reliable, and capable of checking their own work. I also work with computer vision and AI that needs to run on the edge, not just in the cloud.
+
+When I’m not building AI, I’m probably watching anime.
 
 ## How I build
 
