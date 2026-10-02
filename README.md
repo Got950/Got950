@@ -60,15 +60,8 @@ now:
 | [ocr-evaluator](https://github.com/Got950/ocr-evaluator) | Reads handwritten exam PDFs and grades text, numeric, and symbolic answers |
 | [crime-risk-agent](https://github.com/Got950/crime-risk-agent) | Scores a property's security risk from the address, the property, and city crime data |
 | [Personal_Voice_Bot](https://github.com/Got950/Personal_Voice_Bot) | Voice chat as Alex, through Groq, with a person profile you can edit |
-
-## Other repos
-
-[GulfDrive](https://github.com/Got950/GulfDrive) is a car marketplace for the GCC. The on-road price and the EMI are counted in Postgres.
-
-[AutoIq](https://github.com/Got950/AutoIq) takes a VIN and puts specs, recalls, complaints, and a risk note in one dossier.
-
-[Procurement-Module](https://github.com/Got950/Procurement-Module) is MedFlow, for pharma buying: roles, indents, and a copilot.
-
-[MCQ-Extractor](https://github.com/Got950/MCQ-Extractor) pulls multiple-choice questions out of academic PDFs.
-
-[N8N_automation](https://github.com/Got950/N8N_automation) watches Honda listings, checks NHTSA recalls, and posts a briefing to Discord.
+| [GulfDrive](https://github.com/Got950/GulfDrive) | Car marketplace for the GCC, with on-road price and EMI counted in Postgres |
+| [AutoIq](https://github.com/Got950/AutoIq) | Turns a VIN into one dossier: specs, recalls, complaints, and a risk note |
+| [Procurement-Module](https://github.com/Got950/Procurement-Module) | MedFlow, for pharma buying: roles, indents, and a copilot |
+| [MCQ-Extractor](https://github.com/Got950/MCQ-Extractor) | Pulls multiple-choice questions out of academic PDFs |
+| [N8N_automation](https://github.com/Got950/N8N_automation) | Watches Honda listings, checks NHTSA recalls, and posts a briefing to Discord |
