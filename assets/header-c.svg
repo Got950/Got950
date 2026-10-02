@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="titleC descC">
+  <title id="titleC">Harshit, AI Engineer</title>
+  <desc id="descC">Minimal typographic header with name, role, and a thin accent line.</desc>
+  <rect width="1200" height="300" rx="16" fill="#0d1117"/>
+  <g font-family="ui-monospace, Menlo, Consolas, monospace" text-anchor="middle">
+    <text x="600" y="62" fill="#8b949e" font-size="20">// profile</text>
+    <text x="600" y="158" fill="#e6edf3" font-size="92" font-weight="700" letter-spacing="3">Harshit</text>
+    <text x="600" y="222" fill="#58a6ff" font-size="36">AI Engineer</text>
+    <text x="600" y="268" fill="#8b949e" font-size="28">llm / vision / edge ai</text>
+  </g>
+  <line x1="455" y1="180" x2="745" y2="180" stroke="#1f6feb" stroke-width="5" stroke-linecap="round">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="4.8s" repeatCount="indefinite"/>
+  </line>
+</svg>
