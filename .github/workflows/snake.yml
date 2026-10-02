@@ -12,13 +12,22 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: Got950
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Write the static contribution grid
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/contribution-grid.py
 
       - name: Publish to the output branch
         uses: crazy-max/ghaction-github-pages@v4

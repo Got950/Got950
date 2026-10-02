@@ -91,15 +91,15 @@ now:
   </picture>
 </p>
 
-## Contribution snake
+## Contributions
 
-Drawn daily by [`.github/workflows/snake.yml`](.github/workflows/snake.yml) onto the `output` branch. It shows up after the first successful run.
+The last 12 months, taken from GitHub's own graph. Every day stays visible.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Got950/Got950/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Got950/Got950/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Got950/Got950/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Got950/Got950/output/contributions-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Got950/Got950/output/contributions.svg" />
+    <img alt="GitHub contributions for Got950" src="https://raw.githubusercontent.com/Got950/Got950/output/contributions-dark.svg" width="100%" />
   </picture>
 </p>
 
