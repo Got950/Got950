@@ -61,22 +61,14 @@ now:
 | [crime-risk-agent](https://github.com/Got950/crime-risk-agent) | Scores a property's security risk from the address, the property, and city crime data |
 | [Personal_Voice_Bot](https://github.com/Got950/Personal_Voice_Bot) | Voice chat as Alex, through Groq, with a person profile you can edit |
 
-## Stats
+## Other repos
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Got950&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&include_all_commits=true" />
-    <img alt="GitHub stats for Got950" height="165" src="https://github-readme-stats.vercel.app/api?username=Got950&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0d1117&text_color=0d1117&icon_color=1f6feb&include_all_commits=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Got950&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
-    <img alt="GitHub contribution streak for Got950" height="165" src="https://streak-stats.demolab.com?user=Got950&hide_border=true&background=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=0D1117&sideLabels=0D1117&currStreakNum=0D1117&sideNums=0D1117&dates=8B949E" />
-  </picture>
-</p>
+[GulfDrive](https://github.com/Got950/GulfDrive) is a car marketplace for the GCC. The on-road price and the EMI are counted in Postgres.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Got950&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6" />
-    <img alt="Top languages for Got950" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Got950&layout=compact&hide_border=true&bg_color=ffffff&title_color=0d1117&text_color=0d1117&langs_count=6" />
-  </picture>
-</p>
+[AutoIq](https://github.com/Got950/AutoIq) takes a VIN and puts specs, recalls, complaints, and a risk note in one dossier.
+
+[Procurement-Module](https://github.com/Got950/Procurement-Module) is MedFlow, for pharma buying: roles, indents, and a copilot.
+
+[MCQ-Extractor](https://github.com/Got950/MCQ-Extractor) pulls multiple-choice questions out of academic PDFs.
+
+[N8N_automation](https://github.com/Got950/N8N_automation) watches Honda listings, checks NHTSA recalls, and posts a briefing to Discord.
