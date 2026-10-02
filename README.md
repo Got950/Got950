@@ -10,9 +10,9 @@
 
 ## About
 
-Most days I’m building things around language models, retrieval, and agents — usually figuring out how to make them actually useful, reliable, and capable of checking their own work. I also work with computer vision and AI that needs to run on the edge, not just in the cloud.
+Most days I'm building things around language models, retrieval, and agents. A lot of that is figuring out how to make them useful, reliable, and able to check their own work. I also work with computer vision and AI that needs to run on the edge, not just in the cloud.
 
-When I’m not building AI, I’m probably watching anime.
+When I'm not building AI, I'm probably watching anime.
 
 ## How I build
 
@@ -34,10 +34,9 @@ flowchart TD
 ```yaml
 now:
   base: Hyderabad
-  building:
-    - retrieval and agents that check their own homework
-    - vision that squints at bad handwriting
-    - models that run on the device, cloud is the backup plan
+  agents: retrieval, and they check their own homework
+  vision: squints at bad handwriting
+  device: models that run there, and the cloud is the backup plan
   side: anime
   tonight: one more episode
 ```
