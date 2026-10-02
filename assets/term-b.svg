@@ -4,28 +4,28 @@
   <defs>
     <clipPath id="chatCard"><rect width="740" height="210" rx="12"/></clipPath>
     <clipPath id="type0"><rect x="52" y="56" height="30" width="0">
-      <animate attributeName="width" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;252.9;252.9;0" keyTimes="0.000;0.034;0.125;1.000"/>
+      <animate attributeName="width" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;252.9;252.9;0" keyTimes="0.000;0.034;0.125;1.000"/>
     </rect></clipPath>
     <clipPath id="type1"><rect x="52" y="56" height="30" width="0">
-      <animate attributeName="width" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;439.8;439.8;0" keyTimes="0.000;0.125;0.159;0.250;1.000"/>
+      <animate attributeName="width" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;439.8;439.8;0" keyTimes="0.000;0.125;0.159;0.250;1.000"/>
     </rect></clipPath>
     <clipPath id="type2"><rect x="52" y="56" height="30" width="0">
-      <animate attributeName="width" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;329.9;329.9;0" keyTimes="0.000;0.250;0.284;0.375;1.000"/>
+      <animate attributeName="width" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;329.9;329.9;0" keyTimes="0.000;0.250;0.284;0.375;1.000"/>
     </rect></clipPath>
     <clipPath id="type3"><rect x="52" y="56" height="30" width="0">
-      <animate attributeName="width" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;208.9;208.9;0" keyTimes="0.000;0.375;0.409;0.500;1.000"/>
+      <animate attributeName="width" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;208.9;208.9;0" keyTimes="0.000;0.375;0.409;0.500;1.000"/>
     </rect></clipPath>
     <clipPath id="type4"><rect x="52" y="56" height="30" width="0">
-      <animate attributeName="width" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;340.9;340.9;0" keyTimes="0.000;0.500;0.534;0.625;1.000"/>
+      <animate attributeName="width" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;340.9;340.9;0" keyTimes="0.000;0.500;0.534;0.625;1.000"/>
     </rect></clipPath>
     <clipPath id="type5"><rect x="52" y="56" height="30" width="0">
-      <animate attributeName="width" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;77;77;0" keyTimes="0.000;0.625;0.659;0.750;1.000"/>
+      <animate attributeName="width" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;77;77;0" keyTimes="0.000;0.625;0.659;0.750;1.000"/>
     </rect></clipPath>
     <clipPath id="type6"><rect x="52" y="56" height="30" width="0">
-      <animate attributeName="width" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;175.9;175.9;0" keyTimes="0.000;0.750;0.784;0.875;1.000"/>
+      <animate attributeName="width" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;175.9;175.9;0" keyTimes="0.000;0.750;0.784;0.875;1.000"/>
     </rect></clipPath>
     <clipPath id="type7"><rect x="52" y="56" height="30" width="0">
-      <animate attributeName="width" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;208.9;208.9" keyTimes="0.000;0.875;0.909;1.000"/>
+      <animate attributeName="width" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;208.9;208.9" keyTimes="0.000;0.875;0.909;1.000"/>
     </rect></clipPath>
   </defs>
   <g clip-path="url(#chatCard)" font-family="ui-monospace, Menlo, Consolas, monospace">
@@ -35,18 +35,18 @@
     <circle cx="34" cy="18" r="5" fill="#d29922"/>
     <circle cx="50" cy="18" r="5" fill="#3fb950"/>
     <text x="68" y="23" font-size="14" fill="#8b949e">build</text>
-    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0.000;0.110;0.125;1.000"/>
+    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0.000;0.110;0.125;1.000"/>
       <text x="24" y="78" font-size="20" fill="#58a6ff">$</text>
       <g clip-path="url(#type0)">
         <text x="52" y="78" font-size="20" fill="#e6edf3">Find something annoying</text>
       </g>
       <rect y="62" width="9" height="18" rx="1" fill="#58a6ff">
-        <animate attributeName="x" calcMode="linear" dur="32s" repeatCount="indefinite" values="52;304.9;304.9;52" keyTimes="0.000;0.034;0.125;1.000"/>
+        <animate attributeName="x" calcMode="linear" dur="48s" repeatCount="indefinite" values="52;304.9;304.9;52" keyTimes="0.000;0.034;0.125;1.000"/>
         <animate attributeName="opacity" calcMode="discrete" dur="1.1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.45;0.5;1"/>
       </rect>
-      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.034;0.038;0.110;0.125;1.000"/>
+      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.034;0.038;0.110;0.125;1.000"/>
         <rect x="24" y="106" width="588.3" height="80" rx="12" fill="#0d1117"/>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.038;0.050;0.058;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.038;0.050;0.058;1.000"/>
           <circle cx="48" cy="146" r="3.5" fill="#8b949e">
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
@@ -57,24 +57,24 @@
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
         </g>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.050;0.058;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.050;0.058;1.000"/>
           <text x="44" y="132" font-size="13" fill="#58a6ff">reply</text>
           <text x="44" y="162" font-size="18" fill="#e6edf3">If I keep doing it manually, I’ll probably automate it.</text>
         </g>
       </g>
     </g>
-    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.125;0.129;0.235;0.250;1.000"/>
+    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.125;0.129;0.235;0.250;1.000"/>
       <text x="24" y="78" font-size="20" fill="#58a6ff">$</text>
       <g clip-path="url(#type1)">
         <text x="52" y="78" font-size="20" fill="#e6edf3">Figure out what the model actually needs</text>
       </g>
       <rect y="62" width="9" height="18" rx="1" fill="#58a6ff">
-        <animate attributeName="x" calcMode="linear" dur="32s" repeatCount="indefinite" values="52;52;491.8;491.8;52" keyTimes="0.000;0.125;0.159;0.250;1.000"/>
+        <animate attributeName="x" calcMode="linear" dur="48s" repeatCount="indefinite" values="52;52;491.8;491.8;52" keyTimes="0.000;0.125;0.159;0.250;1.000"/>
         <animate attributeName="opacity" calcMode="discrete" dur="1.1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.45;0.5;1"/>
       </rect>
-      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.159;0.163;0.235;0.250;1.000"/>
+      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.159;0.163;0.235;0.250;1.000"/>
         <rect x="24" y="106" width="449.8" height="80" rx="12" fill="#0d1117"/>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.163;0.175;0.183;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.163;0.175;0.183;1.000"/>
           <circle cx="48" cy="146" r="3.5" fill="#8b949e">
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
@@ -85,24 +85,24 @@
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
         </g>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.175;0.183;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.175;0.183;1.000"/>
           <text x="44" y="132" font-size="13" fill="#58a6ff">reply</text>
           <text x="44" y="162" font-size="18" fill="#e6edf3">More context isn’t always better context.</text>
         </g>
       </g>
     </g>
-    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.250;0.254;0.360;0.375;1.000"/>
+    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.250;0.254;0.360;0.375;1.000"/>
       <text x="24" y="78" font-size="20" fill="#58a6ff">$</text>
       <g clip-path="url(#type2)">
         <text x="52" y="78" font-size="20" fill="#e6edf3">Give the agent something to do</text>
       </g>
       <rect y="62" width="9" height="18" rx="1" fill="#58a6ff">
-        <animate attributeName="x" calcMode="linear" dur="32s" repeatCount="indefinite" values="52;52;381.9;381.9;52" keyTimes="0.000;0.250;0.284;0.375;1.000"/>
+        <animate attributeName="x" calcMode="linear" dur="48s" repeatCount="indefinite" values="52;52;381.9;381.9;52" keyTimes="0.000;0.250;0.284;0.375;1.000"/>
         <animate attributeName="opacity" calcMode="discrete" dur="1.1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.45;0.5;1"/>
       </rect>
-      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.284;0.288;0.360;0.375;1.000"/>
+      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.284;0.288;0.360;0.375;1.000"/>
         <rect x="24" y="106" width="439.9" height="80" rx="12" fill="#0d1117"/>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.288;0.300;0.308;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.288;0.300;0.308;1.000"/>
           <circle cx="48" cy="146" r="3.5" fill="#8b949e">
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
@@ -113,24 +113,24 @@
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
         </g>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.300;0.308;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.300;0.308;1.000"/>
           <text x="44" y="132" font-size="13" fill="#58a6ff">reply</text>
           <text x="44" y="162" font-size="18" fill="#e6edf3">If it needs an API, let it call the API.</text>
         </g>
       </g>
     </g>
-    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.375;0.379;0.485;0.500;1.000"/>
+    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.375;0.379;0.485;0.500;1.000"/>
       <text x="24" y="78" font-size="20" fill="#58a6ff">$</text>
       <g clip-path="url(#type3)">
         <text x="52" y="78" font-size="20" fill="#e6edf3">Try to make it fail</text>
       </g>
       <rect y="62" width="9" height="18" rx="1" fill="#58a6ff">
-        <animate attributeName="x" calcMode="linear" dur="32s" repeatCount="indefinite" values="52;52;260.9;260.9;52" keyTimes="0.000;0.375;0.409;0.500;1.000"/>
+        <animate attributeName="x" calcMode="linear" dur="48s" repeatCount="indefinite" values="52;52;260.9;260.9;52" keyTimes="0.000;0.375;0.409;0.500;1.000"/>
         <animate attributeName="opacity" calcMode="discrete" dur="1.1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.45;0.5;1"/>
       </rect>
-      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.409;0.413;0.485;0.500;1.000"/>
+      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.409;0.413;0.485;0.500;1.000"/>
         <rect x="24" y="106" width="439.9" height="80" rx="12" fill="#0d1117"/>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.413;0.425;0.433;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.413;0.425;0.433;1.000"/>
           <circle cx="48" cy="146" r="3.5" fill="#8b949e">
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
@@ -141,24 +141,24 @@
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
         </g>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.425;0.433;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.425;0.433;1.000"/>
           <text x="44" y="132" font-size="13" fill="#58a6ff">reply</text>
           <text x="44" y="162" font-size="18" fill="#e6edf3">The happy path is usually the easy part.</text>
         </g>
       </g>
     </g>
-    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.500;0.504;0.610;0.625;1.000"/>
+    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.500;0.504;0.610;0.625;1.000"/>
       <text x="24" y="78" font-size="20" fill="#58a6ff">$</text>
       <g clip-path="url(#type4)">
         <text x="52" y="78" font-size="20" fill="#e6edf3">Check if it actually got better</text>
       </g>
       <rect y="62" width="9" height="18" rx="1" fill="#58a6ff">
-        <animate attributeName="x" calcMode="linear" dur="32s" repeatCount="indefinite" values="52;52;392.9;392.9;52" keyTimes="0.000;0.500;0.534;0.625;1.000"/>
+        <animate attributeName="x" calcMode="linear" dur="48s" repeatCount="indefinite" values="52;52;392.9;392.9;52" keyTimes="0.000;0.500;0.534;0.625;1.000"/>
         <animate attributeName="opacity" calcMode="discrete" dur="1.1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.45;0.5;1"/>
       </rect>
-      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.534;0.538;0.610;0.625;1.000"/>
+      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.534;0.538;0.610;0.625;1.000"/>
         <rect x="24" y="106" width="410.2" height="80" rx="12" fill="#0d1117"/>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.538;0.550;0.558;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.538;0.550;0.558;1.000"/>
           <circle cx="48" cy="146" r="3.5" fill="#8b949e">
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
@@ -169,24 +169,24 @@
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
         </g>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.550;0.558;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.550;0.558;1.000"/>
           <text x="44" y="132" font-size="13" fill="#58a6ff">reply</text>
           <text x="44" y="162" font-size="18" fill="#e6edf3">“Feels better” isn’t really a metric.</text>
         </g>
       </g>
     </g>
-    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.625;0.629;0.735;0.750;1.000"/>
+    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.625;0.629;0.735;0.750;1.000"/>
       <text x="24" y="78" font-size="20" fill="#58a6ff">$</text>
       <g clip-path="url(#type5)">
         <text x="52" y="78" font-size="20" fill="#e6edf3">Ship it</text>
       </g>
       <rect y="62" width="9" height="18" rx="1" fill="#58a6ff">
-        <animate attributeName="x" calcMode="linear" dur="32s" repeatCount="indefinite" values="52;52;129;129;52" keyTimes="0.000;0.625;0.659;0.750;1.000"/>
+        <animate attributeName="x" calcMode="linear" dur="48s" repeatCount="indefinite" values="52;52;129;129;52" keyTimes="0.000;0.625;0.659;0.750;1.000"/>
         <animate attributeName="opacity" calcMode="discrete" dur="1.1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.45;0.5;1"/>
       </rect>
-      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.659;0.663;0.735;0.750;1.000"/>
+      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.659;0.663;0.735;0.750;1.000"/>
         <rect x="24" y="106" width="668.5" height="80" rx="12" fill="#0d1117"/>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.663;0.675;0.683;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.663;0.675;0.683;1.000"/>
           <circle cx="48" cy="146" r="3.5" fill="#8b949e">
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
@@ -197,24 +197,24 @@
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
         </g>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.675;0.683;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.675;0.683;1.000"/>
           <text x="44" y="132" font-size="13" fill="#58a6ff">reply</text>
           <text x="44" y="162" font-size="18" fill="#e6edf3">At some point you have to stop tweaking and let someone use it.</text>
         </g>
       </g>
     </g>
-    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.750;0.754;0.860;0.875;1.000"/>
+    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.750;0.754;0.860;0.875;1.000"/>
       <text x="24" y="78" font-size="20" fill="#58a6ff">$</text>
       <g clip-path="url(#type6)">
         <text x="52" y="78" font-size="20" fill="#e6edf3">See what happens</text>
       </g>
       <rect y="62" width="9" height="18" rx="1" fill="#58a6ff">
-        <animate attributeName="x" calcMode="linear" dur="32s" repeatCount="indefinite" values="52;52;227.9;227.9;52" keyTimes="0.000;0.750;0.784;0.875;1.000"/>
+        <animate attributeName="x" calcMode="linear" dur="48s" repeatCount="indefinite" values="52;52;227.9;227.9;52" keyTimes="0.000;0.750;0.784;0.875;1.000"/>
         <animate attributeName="opacity" calcMode="discrete" dur="1.1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.45;0.5;1"/>
       </rect>
-      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.784;0.788;0.860;0.875;1.000"/>
+      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.000;0.784;0.788;0.860;0.875;1.000"/>
         <rect x="24" y="106" width="558.6" height="80" rx="12" fill="#0d1117"/>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.788;0.800;0.808;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.788;0.800;0.808;1.000"/>
           <circle cx="48" cy="146" r="3.5" fill="#8b949e">
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
@@ -225,24 +225,24 @@
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
         </g>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.800;0.808;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.800;0.808;1.000"/>
           <text x="44" y="132" font-size="13" fill="#58a6ff">reply</text>
           <text x="44" y="162" font-size="18" fill="#e6edf3">Production has a way of finding the bugs you missed.</text>
         </g>
       </g>
     </g>
-    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0.000;0.875;0.879;0.985;1.000"/>
+    <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0.000;0.875;0.879;0.985;1.000"/>
       <text x="24" y="78" font-size="20" fill="#58a6ff">$</text>
       <g clip-path="url(#type7)">
         <text x="52" y="78" font-size="20" fill="#e6edf3">Fix the weird stuff</text>
       </g>
       <rect y="62" width="9" height="18" rx="1" fill="#58a6ff">
-        <animate attributeName="x" calcMode="linear" dur="32s" repeatCount="indefinite" values="52;52;260.9;260.9" keyTimes="0.000;0.875;0.909;1.000"/>
+        <animate attributeName="x" calcMode="linear" dur="48s" repeatCount="indefinite" values="52;52;260.9;260.9" keyTimes="0.000;0.875;0.909;1.000"/>
         <animate attributeName="opacity" calcMode="discrete" dur="1.1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.45;0.5;1"/>
       </rect>
-      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0.000;0.909;0.913;0.985;1.000"/>
+      <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0.000;0.909;0.913;0.985;1.000"/>
         <rect x="24" y="106" width="301.3" height="80" rx="12" fill="#0d1117"/>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.913;0.925;0.933;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0.000;0.913;0.925;0.933;1.000"/>
           <circle cx="48" cy="146" r="3.5" fill="#8b949e">
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
@@ -253,7 +253,7 @@
             <animate attributeName="cy" values="146;140;146" dur="0.7s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
           </circle>
         </g>
-        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="32s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.925;0.933;1.000"/>
+        <g opacity="0"><animate attributeName="opacity" calcMode="linear" dur="48s" repeatCount="indefinite" values="0;0;1;1" keyTimes="0.000;0.925;0.933;1.000"/>
           <text x="44" y="132" font-size="13" fill="#58a6ff">reply</text>
           <text x="44" y="162" font-size="18" fill="#e6edf3">Then do it all over again.</text>
         </g>
