@@ -10,7 +10,7 @@
 
 ## About
 
-Most days I work on language models, retrieval, and agents that can check their own work. I also do computer vision, and models that have to run on the device, not only in the cloud. Games are a side project.
+Most days I work on language models, retrieval, and agents that can check their own work. I also do computer vision, and models that have to run on the device, not only in the cloud. Anime is the other tab.
 
 ## How I build
 
@@ -33,10 +33,11 @@ flowchart TD
 now:
   base: Hyderabad
   building:
-    - retrieval and agents
-    - vision and OCR
-    - models that run on device
-  side: games
+    - retrieval and agents that check their own homework
+    - vision that squints at bad handwriting
+    - models that run on the device, cloud is the backup plan
+  side: anime
+  tonight: one more episode
 ```
 
 ## Stack
