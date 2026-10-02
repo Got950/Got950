@@ -1,4 +1,4 @@
-<img alt="Harshit, AI engineer in Hyderabad, India" src="assets/header-b.svg?v=2" width="100%" />
+<img alt="Harshit, AI engineer in Hyderabad, India" src="assets/header.svg" width="100%" />
 
 <p align="center">
   <a href="https://harshit-portfolio-d3b1.vercel.app/">Portfolio</a>
