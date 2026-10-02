@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 210" width="520" height="210" role="img" aria-labelledby="titleChat descChat">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 210" width="740" height="210" role="img" aria-labelledby="titleChat descChat">
   <title id="titleChat">How I build</title>
   <desc id="descChat">A terminal types each step, then a short reply follows. find_problem. load_context. give_tools. run_tests --break. evaluate. deploy. tail -f logs. fix --repeat.</desc>
   <defs>
-    <clipPath id="chatCard"><rect width="520" height="210" rx="12"/></clipPath>
+    <clipPath id="chatCard"><rect width="740" height="210" rx="12"/></clipPath>
     <clipPath id="type0"><rect x="52" y="56" height="30" width="0">
       <animate attributeName="width" calcMode="linear" dur="40s" repeatCount="indefinite" values="0;132;132;0" keyTimes="0.000;0.027;0.125;1.000"/>
     </rect></clipPath>
@@ -29,8 +29,8 @@
     </rect></clipPath>
   </defs>
   <g clip-path="url(#chatCard)" font-family="ui-monospace, Menlo, Consolas, monospace">
-    <rect width="520" height="210" fill="#161b22"/>
-    <rect width="520" height="36" fill="#0d1117"/>
+    <rect width="740" height="210" fill="#161b22"/>
+    <rect width="740" height="36" fill="#0d1117"/>
     <circle cx="18" cy="18" r="5" fill="#f85149"/>
     <circle cx="34" cy="18" r="5" fill="#d29922"/>
     <circle cx="50" cy="18" r="5" fill="#3fb950"/>
