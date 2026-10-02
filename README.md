@@ -1,33 +1,16 @@
 <img alt="Harshit, AI engineer in Hyderabad" src="assets/header-b.svg" width="100%" />
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=AI+engineer+in+Hyderabad;Language+models%2C+vision%2C+and+edge+AI;Retrieval%2C+agents%2C+and+OCR;I+also+build+games+on+the+side" />
-    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=720&height=50&lines=AI+engineer+in+Hyderabad;Language+models%2C+vision%2C+and+edge+AI;Retrieval%2C+agents%2C+and+OCR;I+also+build+games+on+the+side" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://harshit-portfolio-d3b1.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" /></a>
-  <a href="mailto:YOUR-EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" /></a>
+  <a href="https://harshit-portfolio-d3b1.vercel.app/">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:YOUR-EMAIL">Email</a>
 </p>
 
 ## About
 
-I'm Harshit. I live in Hyderabad.
-
-I'm an AI engineer. Most days that means language models, retrieval, and agents that can check their own work. I also work on computer vision, and on models that have to run on the device, not only in the cloud. I make games when I get a spare week.
-
-## Model card
-
-| | |
-| --- | --- |
-| Name | Harshit |
-| Role | AI engineer |
-| Location | Hyderabad, India |
-| Focus | LLMs, RAG, multi-agent systems, computer vision, edge AI |
-| Portfolio | [harshit-portfolio-d3b1.vercel.app](https://harshit-portfolio-d3b1.vercel.app/) |
+Most days I work on language models, retrieval, and agents that can check their own work. I also do computer vision, and models that have to run on the device, not only in the cloud. Games are a side project.
 
 ## How I build
 
@@ -95,7 +78,3 @@ now:
     <img alt="Top languages for Got950" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Got950&layout=compact&hide_border=true&bg_color=ffffff&title_color=0d1117&text_color=0d1117&langs_count=6" />
   </picture>
 </p>
-
-## Contact
-
-[Portfolio](https://harshit-portfolio-d3b1.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)

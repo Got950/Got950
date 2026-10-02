@@ -8,7 +8,7 @@
   </defs>
   <g clip-path="url(#cardB)" font-family="ui-monospace, Menlo, Consolas, monospace">
     <rect width="1200" height="300" fill="#1f6feb"/>
-    <text x="72" y="168" fill="#0d1117" font-size="116" font-weight="700">Harshit</text>
-    <text x="72" y="228" fill="#0d1117" font-size="32">AI engineer in Hyderabad</text>
+    <text x="600" y="158" text-anchor="middle" fill="#0d1117" font-size="104" font-weight="700">Harshit</text>
+    <text x="600" y="214" text-anchor="middle" fill="#0d1117" font-size="32">AI engineer in Hyderabad</text>
   </g>
 </svg>
