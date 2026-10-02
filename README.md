@@ -17,7 +17,7 @@ When I'm not building AI, I'm probably watching anime.
 ## How I build
 
 <p align="center">
-  <img alt="How I build. A terminal types each step, then a short reply follows: find_problem, load_context, give_tools, run_tests --break, evaluate, deploy, tail -f logs, fix --repeat." src="assets/term-e.svg" width="100%" />
+  <img alt="How I build. A terminal types each step, then a short reply follows: find_problem, load_context, give_tools, run_tests --break, evaluate, deploy, tail -f logs, fix --repeat." src="assets/term-f.svg" width="100%" />
 </p>
 
 ## Now
