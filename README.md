@@ -32,11 +32,16 @@ I'm an AI engineer. Most days that means language models, retrieval, and agents 
 ## How I build
 
 ```mermaid
+%%{init: {"theme": "base", "flowchart": {"wrappingWidth": 320, "padding": 18, "nodeSpacing": 20, "rankSpacing": 32}, "themeVariables": {"background": "transparent", "primaryColor": "#0d1117", "primaryTextColor": "#e6edf3", "primaryBorderColor": "#1f6feb", "lineColor": "#58a6ff", "fontSize": "16px"}}}%%
 flowchart TD
-  spec[Write the spec] --> retrieve[Pull the right context]
-  retrieve --> draft[Draft the answer]
-  draft --> check[Check it against the source]
-  check --> ship[Ship the smallest thing that works]
+  problem["Spot the boring problem"] --> context["Give AI the right context"]
+  context --> tools["Teach it to use tools"]
+  tools --> stress["Try to break it"]
+  stress --> measure["Measure what actually improved"]
+  measure --> ship["Ship it"]
+  ship --> watch["Watch it"]
+  watch --> better["Make it better"]
+  better -.-> problem
 ```
 
 ## Now
