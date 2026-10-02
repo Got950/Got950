@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://harshit-portfolio-d3b1.vercel.app/">Portfolio</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/harshit-preetam-r">LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL">Email</a>
+  <a href="mailto:rampalliharshit@gmail.com">Email</a>
 </p>
 
 ## About
