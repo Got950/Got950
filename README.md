@@ -91,18 +91,6 @@ now:
   </picture>
 </p>
 
-## Contributions
-
-The last 12 months, taken from GitHub's own graph. Every day stays visible.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Got950/Got950/output/contributions-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Got950/Got950/output/contributions.svg" />
-    <img alt="GitHub contributions for Got950" src="https://raw.githubusercontent.com/Got950/Got950/output/contributions-dark.svg" width="100%" />
-  </picture>
-</p>
-
 ## Contact
 
 [Portfolio](https://harshit-portfolio-d3b1.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)
