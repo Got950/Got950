@@ -16,7 +16,7 @@ When I'm not building AI, I'm probably watching anime.
 
 ## How I build
 
-<img alt="How I build. Spot the boring problem, give AI the right context, teach it to use tools, try to break it, measure what actually improved, ship it, watch it, make it better, then start again." src="assets/how-i-build.svg" width="100%" />
+It starts with a boring problem. I give the model the right context and teach it to use tools. Then I try to break it. If I can measure what got better, I ship it. After that I watch it, make it better, and the next problem is usually already there.
 
 ## Now
 
