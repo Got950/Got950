@@ -50,7 +50,7 @@ now:
 
 <p align="center">LangChain, OpenAI, Groq, Gemini, Chroma, sentence-transformers, Streamlit, Celery, SQLAlchemy, Clerk, n8n</p>
 
-## Work
+## Things I worked on
 
 | Project | What it does |
 | --- | --- |
