@@ -41,7 +41,7 @@ now:
   </picture>
 </p>
 
-<p align="center">LangChain, OpenAI, Groq, Gemini, Chroma, sentence-transformers, Streamlit, Celery, SQLAlchemy, Clerk, n8n, NumPy, Plotly, Pillow, Hugging Face, pytest, Alembic</p>
+<p align="center">LangChain, OpenAI, Groq, Gemini, Chroma, sentence-transformers, Streamlit, Celery, SQLAlchemy, Clerk, n8n, NumPy, Plotly, Pillow, Hugging Face, TrOCR, pytest, Alembic</p>
 
 ## Things I worked on
 
