@@ -17,7 +17,7 @@ When I'm not building AI, I'm probably watching anime.
 ## How I build
 
 <p align="center">
-  <img alt="How I build. A line moves under each step: spot the boring problem, give the model the right context, teach it to use tools, try to break it, measure what actually improved, ship it, watch it, make it better." src="assets/steps.svg" width="72%" />
+  <img alt="How I build. A cursor moves through the steps: spot the boring problem, give the model the right context, teach it to use tools, try to break it, measure what actually improved, ship it, watch it, make it better." src="assets/trace.svg" width="80%" />
 </p>
 
 ## Now

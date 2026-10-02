@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 608 352" width="608" height="352" role="img" aria-labelledby="titleLoop descLoop">
+  <title id="titleLoop">How I build</title>
+  <desc id="descLoop">Spot the boring problem. Give the model the right context. Teach it to use tools. Try to break it. Measure what actually improved. Ship it. Watch it. Make it better.</desc>
+  <defs>
+    <clipPath id="loopCard"><rect width="608" height="352" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#loopCard)" font-family="ui-monospace, Menlo, Consolas, monospace">
+    <rect width="608" height="352" fill="#161b22"/>
+    <rect x="48" y="28" height="32" rx="4" fill="#1f6feb" fill-opacity="0.22">
+      <animate attributeName="y" calcMode="linear" dur="16s" repeatCount="indefinite" values="28;28;64;64;100;100;136;136;172;172;208;208;244;244;280;280;28" keyTimes="0;0.097;0.125;0.222;0.250;0.347;0.375;0.472;0.500;0.597;0.625;0.722;0.750;0.847;0.875;0.972;1.000"/>
+      <animate attributeName="width" calcMode="linear" dur="16s" repeatCount="indefinite" values="426.2;426.2;535.1;535.1;402;402;329.4;329.4;510.9;510.9;232.7;232.7;244.8;244.8;317.3;317.3;426.2" keyTimes="0;0.097;0.125;0.222;0.250;0.347;0.375;0.472;0.500;0.597;0.625;0.722;0.750;0.847;0.875;0.972;1.000"/>
+    </rect>
+    <rect width="9" height="18" rx="1" fill="#58a6ff">
+      <animate attributeName="x" calcMode="linear" dur="16s" repeatCount="indefinite" values="458.2;458.2;567.1;567.1;434;434;361.4;361.4;542.9;542.9;264.7;264.7;276.8;276.8;349.3;349.3;458.2" keyTimes="0;0.097;0.125;0.222;0.250;0.347;0.375;0.472;0.500;0.597;0.625;0.722;0.750;0.847;0.875;0.972;1.000"/>
+      <animate attributeName="y" calcMode="linear" dur="16s" repeatCount="indefinite" values="34;34;70;70;106;106;142;142;178;178;214;214;250;250;286;286;34" keyTimes="0;0.097;0.125;0.222;0.250;0.347;0.375;0.472;0.500;0.597;0.625;0.722;0.750;0.847;0.875;0.972;1.000"/>
+      <animate attributeName="opacity" calcMode="discrete" dur="1.2s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.45;0.5;1"/>
+    </rect>
+    <text x="148" y="52" text-anchor="end" font-size="22" fill="#6e7681">look
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#58a6ff;#58a6ff;#6e7681;#6e7681;#58a6ff" keyTimes="0;0.097;0.125;0.972;1"/>
+    </text>
+    <text x="172" y="52" font-size="22" fill="#8b949e">Spot the boring problem
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#e6edf3;#e6edf3;#8b949e;#8b949e;#e6edf3" keyTimes="0;0.097;0.125;0.972;1"/>
+    </text>
+    <text x="148" y="88" text-anchor="end" font-size="22" fill="#6e7681">context
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#6e7681;#6e7681;#58a6ff;#58a6ff;#6e7681;#6e7681" keyTimes="0;0.125;0.145;0.222;0.250;1"/>
+    </text>
+    <text x="172" y="88" font-size="22" fill="#8b949e">Give the model the right context
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#8b949e;#8b949e;#e6edf3;#e6edf3;#8b949e;#8b949e" keyTimes="0;0.125;0.145;0.222;0.250;1"/>
+    </text>
+    <text x="148" y="124" text-anchor="end" font-size="22" fill="#6e7681">tools
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#6e7681;#6e7681;#58a6ff;#58a6ff;#6e7681;#6e7681" keyTimes="0;0.250;0.270;0.347;0.375;1"/>
+    </text>
+    <text x="172" y="124" font-size="22" fill="#8b949e">Teach it to use tools
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#8b949e;#8b949e;#e6edf3;#e6edf3;#8b949e;#8b949e" keyTimes="0;0.250;0.270;0.347;0.375;1"/>
+    </text>
+    <text x="148" y="160" text-anchor="end" font-size="22" fill="#6e7681">break
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#6e7681;#6e7681;#58a6ff;#58a6ff;#6e7681;#6e7681" keyTimes="0;0.375;0.395;0.472;0.500;1"/>
+    </text>
+    <text x="172" y="160" font-size="22" fill="#8b949e">Try to break it
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#8b949e;#8b949e;#e6edf3;#e6edf3;#8b949e;#8b949e" keyTimes="0;0.375;0.395;0.472;0.500;1"/>
+    </text>
+    <text x="148" y="196" text-anchor="end" font-size="22" fill="#6e7681">measure
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#6e7681;#6e7681;#58a6ff;#58a6ff;#6e7681;#6e7681" keyTimes="0;0.500;0.520;0.597;0.625;1"/>
+    </text>
+    <text x="172" y="196" font-size="22" fill="#8b949e">Measure what actually improved
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#8b949e;#8b949e;#e6edf3;#e6edf3;#8b949e;#8b949e" keyTimes="0;0.500;0.520;0.597;0.625;1"/>
+    </text>
+    <text x="148" y="232" text-anchor="end" font-size="22" fill="#6e7681">ship
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#6e7681;#6e7681;#58a6ff;#58a6ff;#6e7681;#6e7681" keyTimes="0;0.625;0.645;0.722;0.750;1"/>
+    </text>
+    <text x="172" y="232" font-size="22" fill="#8b949e">Ship it
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#8b949e;#8b949e;#e6edf3;#e6edf3;#8b949e;#8b949e" keyTimes="0;0.625;0.645;0.722;0.750;1"/>
+    </text>
+    <text x="148" y="268" text-anchor="end" font-size="22" fill="#6e7681">watch
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#6e7681;#6e7681;#58a6ff;#58a6ff;#6e7681;#6e7681" keyTimes="0;0.750;0.770;0.847;0.875;1"/>
+    </text>
+    <text x="172" y="268" font-size="22" fill="#8b949e">Watch it
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#8b949e;#8b949e;#e6edf3;#e6edf3;#8b949e;#8b949e" keyTimes="0;0.750;0.770;0.847;0.875;1"/>
+    </text>
+    <text x="148" y="304" text-anchor="end" font-size="22" fill="#6e7681">again
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#6e7681;#6e7681;#58a6ff;#58a6ff;#6e7681" keyTimes="0;0.875;0.895;0.972;1"/>
+    </text>
+    <text x="172" y="304" font-size="22" fill="#8b949e">Make it better
+      <animate attributeName="fill" calcMode="linear" dur="16s" repeatCount="indefinite" values="#8b949e;#8b949e;#e6edf3;#e6edf3;#8b949e" keyTimes="0;0.875;0.895;0.972;1"/>
+    </text>
+  </g>
+</svg>
