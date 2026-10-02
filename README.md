@@ -36,12 +36,12 @@ now:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Chtml%2Ccss%2Cfastapi%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Credis%2Cdocker%2Cpytorch%2Csklearn%2Csupabase%2Cthreejs%2Caws%2Cterraform%2Cgithubactions%2Cvercel&theme=dark&perline=12" />
-    <img alt="Python, TypeScript, JavaScript, HTML, CSS, FastAPI, React, Next.js, Tailwind, Vite, Node.js, Express, Postgres, MongoDB, Redis, Docker, PyTorch, scikit-learn, Supabase, Three.js, AWS, Terraform, GitHub Actions, Vercel" src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Chtml%2Ccss%2Cfastapi%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Credis%2Cdocker%2Cpytorch%2Csklearn%2Csupabase%2Cthreejs%2Caws%2Cterraform%2Cgithubactions%2Cvercel&theme=light&perline=12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Chtml%2Ccss%2Cfastapi%2Cflask%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cdocker%2Cnginx%2Cpytorch%2Csklearn%2Copencv%2Csupabase%2Cthreejs%2Caws%2Cterraform%2Cgithubactions%2Cvercel&theme=dark&perline=14" />
+    <img alt="Python, TypeScript, JavaScript, HTML, CSS, FastAPI, Flask, React, Next.js, Tailwind, Vite, Node.js, Express, Postgres, MySQL, MongoDB, Redis, Docker, Nginx, PyTorch, scikit-learn, OpenCV, Supabase, Three.js, AWS, Terraform, GitHub Actions, Vercel" src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Chtml%2Ccss%2Cfastapi%2Cflask%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cdocker%2Cnginx%2Cpytorch%2Csklearn%2Copencv%2Csupabase%2Cthreejs%2Caws%2Cterraform%2Cgithubactions%2Cvercel&theme=light&perline=14" />
   </picture>
 </p>
 
-<p align="center">LangChain, OpenAI, Groq, Gemini, Chroma, sentence-transformers, Streamlit, Celery, SQLAlchemy, Clerk, n8n, NumPy, Plotly, Pillow, Hugging Face, TrOCR, pytest, Alembic</p>
+<p align="center">LangChain, LangGraph, CrewAI, OpenAI, Claude, GPT-4.1, Groq, Gemini, Qwen, Ollama, MCP, Chroma, Qdrant, pgvector, FAISS, Pinecone, sentence-transformers, Hugging Face, TrOCR, YOLO, PaddleOCR, MediaPipe, Celery, n8n, Power Automate, Streamlit, SQLAlchemy, Clerk, NumPy, Plotly, Pillow, pytest, Alembic</p>
 
 ## Things I worked on
 
