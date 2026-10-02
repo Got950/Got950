@@ -43,10 +43,12 @@ now:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,fastapi,react,nodejs,express,postgres,docker,redis,git,githubactions&theme=dark" />
-    <img alt="Python, TypeScript, JavaScript, FastAPI, React, Node.js, Express, Postgres, Docker, Redis, Git, GitHub Actions" src="https://skillicons.dev/icons?i=python,ts,js,fastapi,react,nodejs,express,postgres,docker,redis,git,githubactions&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Chtml%2Ccss%2Cfastapi%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Credis%2Cdocker%2Cpytorch%2Csklearn%2Csupabase%2Cthreejs%2Caws%2Cterraform%2Cgithubactions%2Cvercel&theme=dark&perline=12" />
+    <img alt="Python, TypeScript, JavaScript, HTML, CSS, FastAPI, React, Next.js, Tailwind, Vite, Node.js, Express, Postgres, MongoDB, Redis, Docker, PyTorch, scikit-learn, Supabase, Three.js, AWS, Terraform, GitHub Actions, Vercel" src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Chtml%2Ccss%2Cfastapi%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Credis%2Cdocker%2Cpytorch%2Csklearn%2Csupabase%2Cthreejs%2Caws%2Cterraform%2Cgithubactions%2Cvercel&theme=light&perline=12" />
   </picture>
 </p>
+
+<p align="center">LangChain, OpenAI, Groq, Gemini, Chroma, sentence-transformers, Streamlit, Celery, SQLAlchemy, Clerk, n8n</p>
 
 ## Work
 
