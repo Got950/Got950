@@ -17,7 +17,7 @@ When I'm not building AI, I'm probably watching anime.
 ## How I build
 
 <p align="center">
-  <img alt="How I build. A terminal types each step, then a short reply follows: spot the boring problem, give the model the right context, teach it to use tools, try to break it, measure what actually improved, ship it, watch it, make it better." src="assets/chat.svg" width="84%" />
+  <img alt="How I build. A terminal types each step, then a short reply follows: find something annoying, figure out what the model actually needs, give the agent something to do, try to make it fail, check if it actually got better, ship it, see what happens, fix the weird stuff." src="assets/term.svg" width="100%" />
 </p>
 
 ## Now
