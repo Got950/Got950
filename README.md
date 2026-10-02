@@ -16,18 +16,7 @@ When I'm not building AI, I'm probably watching anime.
 
 ## How I build
 
-```mermaid
-%%{init: {"theme": "base", "flowchart": {"wrappingWidth": 320, "padding": 18, "nodeSpacing": 20, "rankSpacing": 32}, "themeVariables": {"background": "transparent", "primaryColor": "#0d1117", "primaryTextColor": "#e6edf3", "primaryBorderColor": "#1f6feb", "lineColor": "#58a6ff", "fontSize": "16px"}}}%%
-flowchart TD
-  problem["Spot the boring problem"] --> context["Give AI the right context"]
-  context --> tools["Teach it to use tools"]
-  tools --> stress["Try to break it"]
-  stress --> measure["Measure what actually improved"]
-  measure --> ship["Ship it"]
-  ship --> watch["Watch it"]
-  watch --> better["Make it better"]
-  better -.-> problem
-```
+<img alt="How I build. Spot the boring problem, give AI the right context, teach it to use tools, try to break it, measure what actually improved, ship it, watch it, make it better, then start again." src="assets/how-i-build.svg" width="100%" />
 
 ## Now
 

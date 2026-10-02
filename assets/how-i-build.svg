@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="titleLoop descLoop">
+  <title id="titleLoop">How I build</title>
+  <desc id="descLoop">Eight steps in a loop. Spot the boring problem, give AI the right context, teach it to use tools, try to break it, measure what actually improved, ship it, watch it, then make it better and start again.</desc>
+  <defs>
+    <clipPath id="loopCard">
+      <rect width="1200" height="360" rx="16"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#loopCard)" font-family="ui-monospace, Menlo, Consolas, monospace">
+    <rect width="1200" height="360" fill="#161b22"/>
+
+    <rect x="72" y="28" width="250" height="112" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
+    <text x="90" y="58" fill="#58a6ff" font-size="18" font-weight="700">01</text>
+    <text x="90" y="88" fill="#e6edf3" font-size="20">Spot the boring</text>
+    <text x="90" y="114" fill="#e6edf3" font-size="20">problem</text>
+
+    <rect x="346" y="28" width="250" height="112" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
+    <text x="364" y="58" fill="#58a6ff" font-size="18" font-weight="700">02</text>
+    <text x="364" y="88" fill="#e6edf3" font-size="20">Give AI the</text>
+    <text x="364" y="114" fill="#e6edf3" font-size="20">right context</text>
+
+    <rect x="620" y="28" width="250" height="112" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
+    <text x="638" y="58" fill="#58a6ff" font-size="18" font-weight="700">03</text>
+    <text x="638" y="88" fill="#e6edf3" font-size="20">Teach it to</text>
+    <text x="638" y="114" fill="#e6edf3" font-size="20">use tools</text>
+
+    <rect x="894" y="28" width="250" height="112" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
+    <text x="912" y="96" fill="#58a6ff" font-size="18" font-weight="700">04</text>
+    <text x="948" y="96" fill="#e6edf3" font-size="20">Try to break it</text>
+
+    <rect x="894" y="196" width="250" height="112" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
+    <text x="912" y="226" fill="#58a6ff" font-size="18" font-weight="700">05</text>
+    <text x="912" y="256" fill="#e6edf3" font-size="20">Measure what</text>
+    <text x="912" y="282" fill="#e6edf3" font-size="20">actually improved</text>
+
+    <rect x="620" y="196" width="250" height="112" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
+    <text x="638" y="268" fill="#58a6ff" font-size="18" font-weight="700">06</text>
+    <text x="674" y="268" fill="#e6edf3" font-size="20">Ship it</text>
+
+    <rect x="346" y="196" width="250" height="112" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
+    <text x="364" y="268" fill="#58a6ff" font-size="18" font-weight="700">07</text>
+    <text x="400" y="268" fill="#e6edf3" font-size="20">Watch it</text>
+
+    <rect x="72" y="196" width="250" height="112" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
+    <text x="90" y="268" fill="#58a6ff" font-size="18" font-weight="700">08</text>
+    <text x="126" y="268" fill="#e6edf3" font-size="20">Make it better</text>
+
+    <path d="M322 84 H338" stroke="#58a6ff" stroke-width="2" fill="none"/>
+    <path d="M338 78 L348 84 L338 90 Z" fill="#58a6ff"/>
+    <path d="M596 84 H612" stroke="#58a6ff" stroke-width="2" fill="none"/>
+    <path d="M612 78 L622 84 L612 90 Z" fill="#58a6ff"/>
+    <path d="M870 84 H886" stroke="#58a6ff" stroke-width="2" fill="none"/>
+    <path d="M886 78 L896 84 L886 90 Z" fill="#58a6ff"/>
+
+    <path d="M1019 140 V184" stroke="#58a6ff" stroke-width="2" fill="none"/>
+    <path d="M1013 184 L1019 194 L1025 184 Z" fill="#58a6ff"/>
+
+    <path d="M894 252 H882" stroke="#58a6ff" stroke-width="2" fill="none"/>
+    <path d="M882 246 L872 252 L882 258 Z" fill="#58a6ff"/>
+    <path d="M620 252 H608" stroke="#58a6ff" stroke-width="2" fill="none"/>
+    <path d="M608 246 L598 252 L608 258 Z" fill="#58a6ff"/>
+    <path d="M346 252 H334" stroke="#58a6ff" stroke-width="2" fill="none"/>
+    <path d="M334 246 L324 252 L334 258 Z" fill="#58a6ff"/>
+
+    <path d="M48 252 V84" stroke="#58a6ff" stroke-width="2" fill="none"/>
+    <path d="M42 84 L48 74 L54 84 Z" fill="#58a6ff"/>
+  </g>
+</svg>
